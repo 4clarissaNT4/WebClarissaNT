@@ -1,4 +1,4 @@
-# Web Portofolio Diri
+# Web Portofolio Pribadi
 Website ini merupakan salah satu tugas untuk IF3110 Web Application Development
 
 ## Installation and Running The Website
