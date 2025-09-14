@@ -8,7 +8,7 @@ git clone https://github.com/4clarissaNT4/WebClarissaNT.git
 ```
 
 2. Running the website
-Install the extension called "Live Ser ver" in Visual Studio Code and run this website by clicking right mouse and select "Open with live server".
+Install the extension called "Live Server" in Visual Studio Code and run this website by clicking right mouse and select "Open with live server".
 
 ## Author
 <div id="contributor">
